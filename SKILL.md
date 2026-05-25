@@ -5,6 +5,8 @@ description: Build a throwaway prototype to flush out a design before committing
 
 # Prototype
 
+> Originally from [mattpocock/skills](https://github.com/mattpocock/skills) by [Matt Pocock](https://github.com/mattpocock). Standalone mirror: [Diffuzmetall/skill-prototype](https://github.com/Diffuzmetall/skill-prototype).
+
 A prototype is **throwaway code that answers a question**. The question decides the shape.
 
 ## Pick a branch

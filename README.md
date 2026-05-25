@@ -8,6 +8,8 @@
 
 An agent skill for Claude Code, Cursor, Codex, and other coding agents.
 
+Originally from **[mattpocock/skills](https://github.com/mattpocock/skills)** by [Matt Pocock](https://github.com/mattpocock) — standalone extract of the [`prototype`](https://github.com/mattpocock/skills/tree/main/skills/prototype) skill.
+
 </div>
 
 <div align="center">
@@ -305,6 +307,23 @@ For substantial changes, open an issue first so we agree the change still fits "
 
 ---
 
+## Attribution
+
+This skill was originally published as part of **[mattpocock/skills](https://github.com/mattpocock/skills)** — Matt Pocock's collection of agent skills for real engineering work.
+
+| | |
+|---|---|
+| **Original author** | [Matt Pocock](https://github.com/mattpocock) |
+| **Source repository** | [github.com/mattpocock/skills](https://github.com/mattpocock/skills) |
+| **Original skill path** | [`skills/prototype/`](https://github.com/mattpocock/skills/tree/main/skills/prototype) |
+| **This repository** | Standalone extract with install script and README — not affiliated with or maintained by Matt Pocock |
+
+If you find this skill useful, star the [upstream repo](https://github.com/mattpocock/skills) and consider Matt's [newsletter](https://mattpocock.com/) for updates to his skill collection.
+
+---
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+Attribution to the original author is required when redistributing; see [Attribution](#attribution) above.
